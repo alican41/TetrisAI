@@ -1,2 +1,2 @@
 # Tetris AI 
-## Python Algorithm
+## Python Genetic Algorithm 
